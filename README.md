@@ -1,6 +1,6 @@
 <p align="center">
  
-  <img src="https://the--emerald-games--6wxkd2gfjy86.code.run/G-Google.png" width="150px" height="150px">
+  <img src="https://sz-games.github.io/G-Google.png" width="150px" height="150px">
 
 </p>
 
