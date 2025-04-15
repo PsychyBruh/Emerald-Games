@@ -62,7 +62,7 @@ if (tab) {
 }
 
 const settingsDefaultTab = {
-  title: "Settings - Sz Games",
+  title: "Settings - Emerald Games",
   icon: "https://github.com/sz-games/home/blob/main/G.png?raw=true",
 };
 
